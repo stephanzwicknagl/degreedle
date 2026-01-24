@@ -14,7 +14,7 @@
     "axios": "^1.13.2",
     "expo": "^54.0.31",
     "expo-status-bar": "~3.0.9",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "nativewind": "latest",
     "react": "19.1.0",
     "react-dom": "19.1.0",
